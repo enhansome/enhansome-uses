@@ -1,0 +1,340 @@
+{
+  "items": [
+    {
+      "description": "A list of pages detailing developer setups, gear, software and configs.\nAdd your own page in data.js.\nThis readme is auto-generated from the data.js file, so please don't PR this file.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jonas Jore",
+          "description": "Fullstack Developer, Problemsolving, coffee and fancy terminaltricks!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-01T13:08:43Z",
+            "owner": "JonasJore",
+            "repo": "dotfiles",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Francisco Valloire",
+          "description": "Frontend developer, self-taught, enthusiastic and passionate about new technologies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-11T23:52:41Z",
+            "owner": "frajova",
+            "repo": "what-i-use",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bala Hantsi",
+          "description": "Software developer, full stack developer (in training), lately focused on frontend. Enjoy traveling and gaming.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-01T22:06:50Z",
+            "owner": "bhantsi",
+            "repo": "uses",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dhananjay Porwal",
+          "description": "Self taught Cyber Security Analyst, Graphic Designer and Front-end Developer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-07-27T09:27:16Z",
+            "owner": "DhananjayPorwal",
+            "repo": "Grey-Test",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Karl Horky",
+          "description": "Founder, Teacher at https://upleveled.io",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-01-10T09:56:08Z",
+            "owner": "karlhorky",
+            "repo": "uses",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Norbert Chmiel",
+          "description": "Software Craftsman, Pythonista, Linux enthusiast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-12T19:59:15Z",
+            "owner": "Norbiox",
+            "repo": "uses",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kristina Groeger",
+          "description": "💻 👻 Over ten years of front-end development and UI / UX development and design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-16T21:27:46Z",
+            "owner": "kr1st1nagr03g3r",
+            "repo": "uses",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devika Bhapkar",
+          "description": "Student,Content creator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-10-13T14:30:09Z",
+            "owner": "devikabhapkar",
+            "repo": "uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manuel Coiai",
+          "description": "Creative front-end developer living in Pisa, Italy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-22T14:26:36Z",
+            "owner": "viralk",
+            "repo": "uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MITSUBOSHI Yuya",
+          "description": "Software Engineer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-22T15:58:44Z",
+            "owner": "MITSUBOSHI",
+            "repo": "uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simon Smale",
+          "description": "Full Stack Developer and beginner digital gardener",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-18T22:39:42Z",
+            "owner": "SSmale",
+            "repo": "Uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adi Purnomo",
+          "description": "Front End Developer x Network Engineer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-05T12:37:05Z",
+            "owner": "medival",
+            "repo": "Uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Carlos Longarela",
+          "description": "I enjoy solving problems and creating new stuff. WordPress lover and developer. Standards enthusiast",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-13T17:44:47Z",
+            "owner": "CarlosLongarela",
+            "repo": "uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prashant Bhapkar",
+          "description": "Developer, Entrepreneur, Content Creator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-30T11:32:40Z",
+            "owner": "Prashant-Bhapkar",
+            "repo": "uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matías Hernández",
+          "description": "Frontend Engineer, Podcaster, Father, Calisthenic Athlete",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-26T18:52:34Z",
+            "owner": "matiasfha",
+            "repo": "uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mark Nenadov",
+          "description": "Full stack developer in the deep south of Canada (LaSalle, Ontario)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-21T00:36:16Z",
+            "owner": "MarkNenadov",
+            "repo": "uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hideki Jinnai",
+          "description": "Lifelong Learner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-19T22:07:32Z",
+            "owner": "dekisr",
+            "repo": "uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lucas Becker",
+          "description": "Real architect who also happens to write code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-27T17:09:08Z",
+            "owner": "runxel",
+            "repo": "uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manuel Fernandez",
+          "description": "Security Engineer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-12T16:52:34Z",
+            "owner": "teamhanded",
+            "repo": "uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sahilpreet Singh",
+          "description": "MERN stack developer, Leaning Devops, Web Enthusiast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-09T15:29:52Z",
+            "owner": "preetsahil",
+            "repo": "uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kevin Simkanič",
+          "description": "Wordpress ninja 😎 React lover ❤️ CSS master 🧐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-01-15T12:50:31Z",
+            "owner": "cholinkol",
+            "repo": "uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jerry Shi",
+          "description": "Full Stack, Motivated full-stack developer not afraid to use any technology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-01-15T09:26:14Z",
+            "owner": "szy0syz",
+            "repo": "uses",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wuttinan Sukpoon",
+          "description": "FullStack Developer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-30T22:02:48Z",
+            "owner": "mewxz029",
+            "repo": "uses",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Please read Contribution Guide before submitting a PR."
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:36:55.887Z",
+    "original_repository": "wesbos/awesome-uses",
+    "original_repository_sha": "7ebedf6842b1f80056f9b97bbf902ec03e10e825",
+    "enhanced_repository": "enhansome/enhansome-uses",
+    "enhanced_repository_description": null,
+    "title": "Awesome → Visit uses.tech for a good time with stars"
+  }
+}

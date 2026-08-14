@@ -1,10 +1,10 @@
 # Awesome → Visit uses.tech for a good time with stars
 
-## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,297 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-10 before submitting a PR.
+## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,299 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-13 before submitting a PR.
 
 A list of `/uses` pages detailing developer setups, gear, software and configs.
 
-Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,297 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-10.
+Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,299 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-13.
 
 This readme is auto-generated from the data.js file, so please don't PR this file.
 
@@ -505,6 +505,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [João Vitor Zaniolo](https://jvzaniolo.vercel.app/uses/) — Front-end developer, gamer and tech enthusiast.
 * [Renan Winter Spatin](https://renanspatin.com/uses) — Senior Software Engineer and Tech Lead building distributed financial systems on .NET and cloud. Transfero, ex-BTG Pactual, ex-Thomson Reuters. BJJ blue belt, cat dad, biochip carrier. Instagram @rwspatin · photography @rwinterlens.
 * [Mustafa Erbay](https://mustafaerbay.com.tr/uses) — System architect and infrastructure engineer with 20+ years in networks, security, DevOps, and self-hosted systems. Building burncpu in Türkiye.
+* [Melih Arık](https://meliharik.dev/uses) — Software engineer in Tallinn, Estonia. Mobile apps, backends and small developer tools.
 * [Sithika Fernando](https://sithika.site/uses) — Engineer and builder shipping software, hardware and creative tools end-to-end.
 * [Curtis Lane](https://www.curtiscode.dev/uses) — Senior Software Engineer • Tech Lead • Based in the UK
 * [Felix Beßler](https://www.felix-bessler.de/uses) — I'm a Full-Stack Developer from Germany
@@ -965,4 +966,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

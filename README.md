@@ -1,10 +1,10 @@
 # Awesome → Visit uses.tech for a good time with stars
 
-## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,298 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-13 before submitting a PR.
+## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,298 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-17 before submitting a PR.
 
 A list of `/uses` pages detailing developer setups, gear, software and configs.
 
-Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,298 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-13.
+Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,298 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-17.
 
 This readme is auto-generated from the data.js file, so please don't PR this file.
 
@@ -638,6 +638,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Zubair Ibn Zamir](https://zubairiz.com/uses) — Full-Stack Developer. Cloud Practitioner. Open source contributor. Localization volunteer.
 * [Tony Lockhart](https://tlockhart.github.io/portfolio/#uses) — Full Stack Developer, Designer, and Instructor
 * [Wojciech M. Wnuk](https://lanius.dev/uses) — Magento developer, Linux and FOSS enthusiast.
+* [Joshua Baker](https://www.joshuabaker.com/uses) — Software engineer, designer, and entrepreneur.
 * [Leonardo Melo](https://www.leomeloxp.dev/uses) — Full stack web developer. Typescript lover, always learning new stuff.
 * [Leonardo Rifeli](https://rifeli.dev/uses/) — Software Developer & Data Engineer specializing in scalable data pipelines, cloud infrastructure, and AI-driven solutions. Passionate about resilient systems and empowering teams.
 * [Gabriel Wilkes](https://azul.technology/uses/) — Full-stack developer who loves learning new things, American 10 years in Japan, soon back to the US
@@ -966,4 +967,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._

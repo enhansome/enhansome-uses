@@ -1,10 +1,10 @@
 # Awesome → Visit uses.tech for a good time with stars
 
-## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,298 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-17 before submitting a PR.
+## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,299 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-20 before submitting a PR.
 
 A list of `/uses` pages detailing developer setups, gear, software and configs.
 
-Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,298 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-17.
+Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,299 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-20.
 
 This readme is auto-generated from the data.js file, so please don't PR this file.
 
@@ -384,7 +384,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Camille Hodoul](https://camillehdl.dev/uses/) — Remote fullstack developer, mostly Javascript & PHP
 * [Diogo Ferreira](https://diogoferreira.pt/uses) — Linux System Administrator and DevOps aficionado. Sometimes I write on the internet.
 * [Swapnil Agarwal](https://swapnil.net/uses/) — Software Developer turned Product Manager turned Product Designer | INFP | Avid Reader
-* [Zlatan Stajic](https://www.zlatanstajic.com/uses) — M.Sc. in Computer Science. Working as Software Developer. Creator of libraryfy.com.
+* [Zlatan Stajic](https://zlatanstajic.com/uses) — Senior Backend Engineer PHP & Laravel
 * [Guillaume Briday](https://guillaumebriday.fr/uses) — Senior Full Stack developer and DevOps
 * [Brian Hamburg](https://burgbits.com/uses) — Software Engineer, Designer, and Musician
 * [Alexey Staroselets](https://alexeystar.com/uses) — Graphic Designer, Visual Artist, Typography Enthusiast
@@ -967,4 +967,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

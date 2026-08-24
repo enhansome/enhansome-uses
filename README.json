@@ -4,6 +4,27 @@
       "description": null,
       "items": [
         {
+          "children": [],
+          "description": "A list of pages detailing developer setups, gear, software and configs.\nAdd your own page in data.js.\nThis readme is auto-generated from the data.js file, so please don't PR this file.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 94143026,
+            "language": "JavaScript",
+            "last_commit": "2026-08-20T04:53:57Z",
+            "owner": "wesbos",
+            "repo": "awesome-uses",
+            "stars": 5299
+          },
+          "title": "Please read Contribution Guide before submitting a PR."
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Jonas Jore",
           "description": "Fullstack Developer, Problemsolving, coffee and fancy terminaltricks!",
@@ -353,7 +374,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:18:46.855Z",
+    "last_updated": "2026-08-24T13:54:41.448Z",
     "original_repository": "wesbos/awesome-uses",
     "original_repository_id": 94143026,
     "original_repository_sha": "4ee2bddddd0b1920587197f398ed14914e2cfd66",

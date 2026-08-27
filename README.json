@@ -374,9 +374,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T12:20:38.785Z",
-    "original_repository": "wesbos/awesome-uses",
-    "original_repository_id": 94143026,
+    "last_updated": "2026-08-27T12:09:05.360Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 94143026,
+      "language": "JavaScript",
+      "last_commit": "2026-08-20T04:53:57Z",
+      "owner": "wesbos",
+      "repo": "awesome-uses",
+      "stars": 5299
+    },
     "original_repository_sha": "4ee2bddddd0b1920587197f398ed14914e2cfd66",
     "enhanced_repository": "enhansome/enhansome-uses",
     "enhanced_repository_description": null,

@@ -9,12 +9,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
+            "homepage": "https://uses.tech",
             "id": 94143026,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-20T04:53:57Z",
+            "open_issues": 32,
             "owner": "wesbos",
             "repo": "awesome-uses",
-            "stars": 5299
+            "stars": 5299,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "title": "Please read Contribution Guide before submitting a PR.",
           "first_seen": "2026-08-28T21:32:28.347Z"
@@ -32,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Configurations for how i like my stuff :coffee:",
+            "homepage": null,
             "id": 182463416,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-07-01T13:08:43Z",
+            "open_issues": 0,
             "owner": "JonasJore",
             "repo": "dotfiles",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -48,12 +60,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 303233895,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-11T23:52:41Z",
+            "open_issues": 0,
             "owner": "frajova",
             "repo": "what-i-use",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -64,12 +81,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of tech setups, software and configs that I use everyday",
+            "homepage": null,
             "id": 456198224,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-01-01T22:06:50Z",
+            "open_issues": 0,
             "owner": "bhantsi",
             "repo": "uses",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -80,12 +102,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The main reason of making this repository public is to share my knowledge in front of audience which helps them to connect dots of their knowledge. Sharing is caring. ",
+            "homepage": "https://dhananjayporwal.me",
             "id": 280386334,
             "language": "C",
+            "license": null,
             "last_commit": "2021-07-27T09:27:16Z",
+            "open_issues": 0,
             "owner": "DhananjayPorwal",
             "repo": "Grey-Test",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "broject-medicaps",
+              "dhananjay",
+              "dhananjayporwal",
+              "grey",
+              "grey-test",
+              "techram",
+              "techramindian",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -96,12 +132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hardware and Software Setup",
+            "homepage": null,
             "id": 233017108,
             "language": null,
+            "license": null,
             "last_commit": "2020-01-10T09:56:08Z",
+            "open_issues": 0,
             "owner": "karlhorky",
             "repo": "uses",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -112,12 +153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My daily hardware and software drivers",
+            "homepage": null,
             "id": 665688802,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-12T19:59:15Z",
+            "open_issues": 0,
             "owner": "Norbiox",
             "repo": "uses",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -128,12 +174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Preferred Tools / Setup / Extensions For Front-End Web Development",
+            "homepage": null,
             "id": 466196705,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2022-03-16T21:27:46Z",
+            "open_issues": 0,
             "owner": "kr1st1nagr03g3r",
             "repo": "uses",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -144,12 +195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My daily usage software, hardware, tools and technologies.",
+            "homepage": null,
             "id": 550909568,
             "language": null,
+            "license": null,
             "last_commit": "2022-10-13T14:30:09Z",
+            "open_issues": 0,
             "owner": "devikabhapkar",
             "repo": "uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -160,12 +216,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of tech and gear that I use everyday",
+            "homepage": null,
             "id": 450063454,
             "language": null,
+            "license": null,
             "last_commit": "2024-10-22T14:26:36Z",
+            "open_issues": 0,
             "owner": "viralk",
             "repo": "uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -176,12 +237,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 761834872,
             "language": null,
+            "license": null,
             "last_commit": "2024-02-22T15:58:44Z",
+            "open_issues": 0,
             "owner": "MITSUBOSHI",
             "repo": "uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -192,12 +258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The equipment and software I use and would recommend",
+            "homepage": null,
             "id": 184752833,
             "language": null,
+            "license": null,
             "last_commit": "2020-12-18T22:39:42Z",
+            "open_issues": 0,
             "owner": "SSmale",
             "repo": "Uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -208,12 +279,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 301401364,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-10-05T12:37:05Z",
+            "open_issues": 0,
             "owner": "medival",
             "repo": "Uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -224,12 +300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My developer setups, gear, software and configs",
+            "homepage": null,
             "id": 278634589,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-13T17:44:47Z",
+            "open_issues": 0,
             "owner": "CarlosLongarela",
             "repo": "uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -240,12 +321,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My daily usage software's, hardware's, tools and technologies.",
+            "homepage": null,
             "id": 542222223,
             "language": null,
+            "license": null,
             "last_commit": "2022-09-30T11:32:40Z",
+            "open_issues": 0,
             "owner": "Prashant-Bhapkar",
             "repo": "uses",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "hardware",
+              "resources",
+              "software",
+              "technologies",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -256,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "What software and tech I use every day for my work",
+            "homepage": null,
             "id": 261938008,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-26T18:52:34Z",
+            "open_issues": 0,
             "owner": "matiasfha",
             "repo": "uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -272,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Things I use.",
+            "homepage": null,
             "id": 656136402,
             "language": null,
+            "license": null,
             "last_commit": "2025-12-21T00:36:16Z",
+            "open_issues": 0,
             "owner": "MarkNenadov",
             "repo": "uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -288,12 +390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 305523947,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-19T22:07:32Z",
+            "open_issues": 0,
             "owner": "dekisr",
             "repo": "uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -304,12 +411,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My software stack",
+            "homepage": null,
             "id": 284452277,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2026-04-27T17:09:08Z",
+            "open_issues": 0,
             "owner": "runxel",
             "repo": "uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -320,12 +432,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My work setup.",
+            "homepage": null,
             "id": 624165906,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-12T16:52:34Z",
+            "open_issues": 0,
             "owner": "teamhanded",
             "repo": "uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -336,12 +453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 699072848,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-09T15:29:52Z",
+            "open_issues": 0,
             "owner": "preetsahil",
             "repo": "uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -352,12 +474,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 234079397,
             "language": null,
+            "license": null,
             "last_commit": "2020-01-15T12:50:31Z",
+            "open_issues": 0,
             "owner": "cholinkol",
             "repo": "uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -368,12 +495,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Here are the software and hardware I use.",
+            "homepage": null,
             "id": 233549759,
             "language": null,
+            "license": null,
             "last_commit": "2020-01-15T09:26:14Z",
+            "open_issues": 0,
             "owner": "szy0syz",
             "repo": "uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         },
@@ -384,12 +516,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 543803966,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-09-30T22:02:48Z",
+            "open_issues": 0,
             "owner": "mewxz029",
             "repo": "uses",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:28.347Z"
         }
@@ -398,15 +535,22 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:32:28.347Z",
+    "last_updated": "2026-08-29T04:16:02.840Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
+      "homepage": "https://uses.tech",
       "id": 94143026,
       "language": "JavaScript",
+      "license": null,
       "last_commit": "2026-08-20T04:53:57Z",
+      "open_issues": 32,
       "owner": "wesbos",
       "repo": "awesome-uses",
-      "stars": 5299
+      "stars": 5299,
+      "topics": [
+        "hacktoberfest"
+      ]
     },
     "original_repository_sha": "4ee2bddddd0b1920587197f398ed14914e2cfd66",
     "enhanced_repository": "enhansome/enhansome-uses",

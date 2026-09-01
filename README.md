@@ -1,10 +1,10 @@
 # Awesome → Visit uses.tech for a good time with stars
 
-## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,298 | 🐛 32 | 🌐 JavaScript | 📅 2026-08-20 before submitting a PR.
+## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,297 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-01 before submitting a PR.
 
 A list of `/uses` pages detailing developer setups, gear, software and configs.
 
-Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,298 | 🐛 32 | 🌐 JavaScript | 📅 2026-08-20.
+Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,297 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-01.
 
 This readme is auto-generated from the data.js file, so please don't PR this file.
 
@@ -321,6 +321,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Angélique Weger](https://angeliqueweger.com/uses) — engineering manager :: adjunct prof :: always learning
 * [Seagyn Davis](https://www.seagyndavis.com/uses) — Full stack human. Hobby runner. Mainly a husband and dad.
 * [Hayden Kowalchuk](https://haydenkowalchuk.github.io/blog/#/uses) — Dreamcast and PSP enthusiast and gamedev.
+* [Jonathan Conway](https://conwy.co/uses) — Full stack developer and designer. Broad interests. Always learning and growing
 * [Anand Reddy Pandikunta](https://avilpage.com/uses.html) — Writer, Blogger & Day dreamer.
 * [Amolith](https://secluded.site/uses/) — Musician, developer, sysadmin, co-host of the Linux Lads, small business owner, and founder of not-for-profit NixNet
 * [Ayush Gupta](https://ayushgupta.tech/uses/) — React & React Native developer, passionate photographer, technical writer and occasionaly designer.
@@ -640,6 +641,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Wojciech M. Wnuk](https://lanius.dev/uses) — Magento developer, Linux and FOSS enthusiast.
 * [Joshua Baker](https://www.joshuabaker.com/uses) — Software engineer, designer, and entrepreneur.
 * [Leonardo Melo](https://www.leomeloxp.dev/uses) — Full stack web developer. Typescript lover, always learning new stuff.
+* [Neal Wang](https://nealwang.dev/uses) — Aspiring distributed systems engineer
 * [Leonardo Rifeli](https://rifeli.dev/uses/) — Software Developer & Data Engineer specializing in scalable data pipelines, cloud infrastructure, and AI-driven solutions. Passionate about resilient systems and empowering teams.
 * [Gabriel Wilkes](https://azul.technology/uses/) — Full-stack developer who loves learning new things, American 10 years in Japan, soon back to the US
 * [Rémi Weng](https://creativedesignsguru.com/uses/) — A Full Stack JS developer using React, Next JS and Tailwind CSS. Netlify, Serverless and AWS for the backend.
@@ -949,6 +951,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Rasul Kireev](https://rasulkireev.com/uses) — Software Engineer at Readwise specialising in Django
 * [Ferdinand Linnenberg](https://linnenberg.dev/uses) — Backend Developer and Open Source Enthusiast
 * [orangc](https://orangc.net/uses) — A student, developer, weeb, and bookworm.
+* [lohtei](https://lohtei.nekoweb.org/uses) — Actually your cat
 * [Will Adams](https://willadams.dev/uses) — UK developer and knife maker
 * [That MLOps Guy](https://thatmlopsguy.github.io/uses/) — Portuguese machine learning engineer
 * [Hiran Venugopalan](https://hiran.in/uses) — A tinkerer who loves building things. Product Designer. Into PKM and Digital Garden.
@@ -967,4 +970,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

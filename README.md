@@ -1,10 +1,10 @@
 # Awesome → Visit uses.tech for a good time with stars
 
-## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,297 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-01 before submitting a PR.
+## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,297 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-01 before submitting a PR.
 
 A list of `/uses` pages detailing developer setups, gear, software and configs.
 
-Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,297 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-01.
+Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,297 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-01.
 
 This readme is auto-generated from the data.js file, so please don't PR this file.
 
@@ -31,7 +31,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 # Awesome Uses ![Awesome][awesome-badge]
 
-* [Jonas Jore](https://github.com/JonasJore/dotfiles/blob/master/uses-tech.md) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-07-01 — Fullstack Developer, Problemsolving, coffee and fancy terminaltricks!
+* [Jonas Jore](https://github.com/JonasJore/dotfiles/blob/master/uses-tech.md) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-09-01 — Fullstack Developer, Problemsolving, coffee and fancy terminaltricks!
 * [Francisco Valloire](https://github.com/frajova/what-i-use) ⭐ 2 | 🐛 0 | 📅 2020-10-11 — Frontend developer, self-taught, enthusiastic and passionate about new technologies.
 * [Bala Hantsi](https://github.com/bhantsi/uses) ⭐ 1 | 🐛 0 | 📅 2023-01-01 — Software developer, full stack developer (in training), lately focused on frontend. Enjoy traveling and gaming.
 * [Dhananjay Porwal](https://github.com/DhananjayPorwal/Grey-Test/blob/gh-pages/dhananjayporwal_uses.md) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2021-07-27 — Self taught Cyber Security Analyst, Graphic Designer and Front-end Developer
@@ -970,4 +970,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

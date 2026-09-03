@@ -1,10 +1,10 @@
 # Awesome → Visit uses.tech for a good time with stars
 
-## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,297 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-01 before submitting a PR.
+## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,300 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-01 before submitting a PR.
 
 A list of `/uses` pages detailing developer setups, gear, software and configs.
 
-Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,297 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-01.
+Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,300 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-01.
 
 This readme is auto-generated from the data.js file, so please don't PR this file.
 
@@ -970,4 +970,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

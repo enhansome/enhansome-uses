@@ -1,10 +1,10 @@
 # Awesome → Visit uses.tech for a good time with stars
 
-## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,300 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-01 before submitting a PR.
+## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,300 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-04 before submitting a PR.
 
 A list of `/uses` pages detailing developer setups, gear, software and configs.
 
-Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,300 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-01.
+Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,300 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-04.
 
 This readme is auto-generated from the data.js file, so please don't PR this file.
 
@@ -73,7 +73,9 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Loic Leray](https://www.loicleray.com/uses) — Veterinarian turned CRUD-monkey and tech sales guy. Extreme sports enthusiast.
 * [Hayo Bethlehem](https://hayobethlehem.nl/about/uses) — Strategic Adviser
 * [Sachin Kukreja](https://sachinkukreja.dev/uses) — Full-stack engineer learning, applying and transforming softwares
+* [Sameer Bajaj](https://sameerbajaj.com/uses) — Staff / Principal Product Manager & Software Engineer building developer tooling, AI agent systems, and productivity workflows.
 * [Guilherme Albert](https://guilhermealbert.com/uses) — Tech Lead & Full Stack Engineer. Product-minded, hands-on, and entrepreneur.
+* [tekphloyd](https://tekphloyd.com/uses) — MuleSoft Integration Architect
 * [Omid Farhang](https://omid.dev/uses/) — Frontend Architect & Engineering Lead
 * [Chris B MN](https://chrisbmn.com/uses) — Lead Infrastructure Engineer with a /colophon page and deeply questionable hobbies
 * [Djamel Bougouffa](https://djamel-bougouffa.com/uses) — Full-Stack Software Engineer specializing in TypeScript, Rust, RAG and agentic AI workflows
@@ -970,4 +972,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

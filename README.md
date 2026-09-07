@@ -1,10 +1,10 @@
 # Awesome → Visit uses.tech for a good time with stars
 
-## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,300 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-04 before submitting a PR.
+## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,300 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-07 before submitting a PR.
 
 A list of `/uses` pages detailing developer setups, gear, software and configs.
 
-Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,300 | 🐛 30 | 🌐 JavaScript | 📅 2026-09-04.
+Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,300 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-07.
 
 This readme is auto-generated from the data.js file, so please don't PR this file.
 
@@ -498,7 +498,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Ximena Vila Ferral](https://ximenavf.com/uses/) — 💻 🎨 A Mexican born, Texas based designer and developer.
 * [Daryl Sun](https://blog.darylsun.page/uses) — I play with software and videogames. Sometimes I write things.
 * [Michael Vivirito](https://michaelvivirito.com/uses) — SRE and homelab tinkerer running FreeBSD, NixOS, and Proxmox. Self-hosted everything, local LLMs on a GPU-passthrough VM, and a Telegram-driven Obsidian second brain.
-* [Helen Chong](https://helenchong.dev/uses) — Graphic designer turned web developer based in Malaysia.
+* [Helen Chong](https://helenchong.dev/uses) — Graphic designer turned web and software developer based in Malaysia.
 * [Julian Stark](https://julianstark.de/uses) — WordPress Web Developer & Entrepreneur
 * [Aris Ripandi](https://ripandis.com/uses) — Software engineer & educator. Open Source enthusiast.
 * [Teo Ruiz](https://teoruiz.com/uses/) — 20 years an engineer. CTO. Entrepreneur.
@@ -972,4 +972,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

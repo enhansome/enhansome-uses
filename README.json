@@ -15,7 +15,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-09-07T15:40:42Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "wesbos",
             "repo": "awesome-uses",
             "stars": 5300,
@@ -535,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:40:38.163Z",
+    "last_updated": "2026-09-08T15:23:26.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
@@ -544,7 +544,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-09-07T15:40:42Z",
-      "open_issues": 29,
+      "open_issues": 30,
       "owner": "wesbos",
       "repo": "awesome-uses",
       "stars": 5300,

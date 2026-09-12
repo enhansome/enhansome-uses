@@ -1,10 +1,10 @@
 # Awesome → Visit uses.tech for a good time with stars
 
-## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,299 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-07 before submitting a PR.
+## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,299 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-11 before submitting a PR.
 
 A list of `/uses` pages detailing developer setups, gear, software and configs.
 
-Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,299 | 🐛 32 | 🌐 JavaScript | 📅 2026-09-07.
+Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,299 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-11.
 
 This readme is auto-generated from the data.js file, so please don't PR this file.
 
@@ -54,6 +54,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Kevin Simkanič](https://github.com/kevinko12323/uses) ⭐ 0 | 🐛 0 | 📅 2020-01-15 — Wordpress ninja 😎 React lover ❤️ CSS master 🧐
 * [Jerry Shi](https://github.com/szy0syz/uses) ⭐ 0 | 🐛 0 | 📅 2020-01-15 — Full Stack, Motivated full-stack developer not afraid to use any technology.
 * [Wuttinan Sukpoon](https://github.com/mewxz029/uses) ⭐ 0 | 🐛 0 | 📅 2022-09-30 — FullStack Developer
+* [Dzubayyan Ahmad](https://masdzub.com/uses) — Building reliable, scalable infrastructure and solving complex technical challenges with automation and monitoring.
 * [Steven W. Buehler](https://swb72.us/uses) — Gloriously awkward 50-something. Reporting Administrator/Developer. Musician. Disney World Junkie.
 * [Annabelle Feiler](https://sparks-of-joy.neocities.org/uses) — Artist and freelance designer
 * [Angad Singh](https://singhangad.in/uses) — Lead Software Engineer specializing in Android Development
@@ -63,6 +64,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Adam Greenough](http://adamgreenough.net/uses/) — Freelance web designer, developer & WordPress expert from the UK
 * [Berat Bozkurt ](https://beratbozkurt.net/en/uses) — Frontend developer living in Turkey. Currently building mobile apps, indie hacker
 * [Maxime Blaise](https://maximeblaise.fr/uses) — AI Native Product Designer
+* [Raúl Jiménez Ortega](https://www.rauljimenez.info/uses) — Helping developers and communities share geospatial technology, open knowledge, and useful tools in public.
 * [Thxie](https://thxie.com/about#uses) — AI Enthusiast | Minimalist | Post-Language Programmer, 🤩 Just for fun!
 * [Hussain Abbas](https://hussainweb.me/uses) — Director of Engineering and Solutions Architect. Enthusiastic about Platform Engineering, Developer Tooling, System Design, and User Centricity.
 * [J Lopes](https://jlopes.eu/uses/) — Web Developer & Designer, creative problem-solver.
@@ -162,6 +164,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Preshit Deorukhkar](https://nuclearbits.com/uses) — Tech Enthusiast & Consultant
 * [Sudan Chapagain](https://sudanchapagain.com.np/uses) — Student
 * [Tim Benniks](https://timbenniks.dev/uses) — Developer relations, speaker, content creator
+* [Michel Fiege](https://m1es.net/uses) — I’m a web enthousiast, programmer, ex entrepreneur and former teacher.
 * [Karthik Kadambi](https://karthikkadambi.com/uses) — Full Stack Developer, UX Enthusiast and Aspiring AI Engineer
 * [Damian Cyrus](https://damiancyrus.com/uses) — Full Stack Developer, Front-end Software Engineer, Tech Lead, DevDad.
 * [Allan Deutsch](https://allandeutsch.com/uses) — Builds things on the internet.
@@ -477,6 +480,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Ricardo Morais](https://ricardomorais.dev/uses) — Senior Front-end Developer, Software Engineer @ Nextbitt
 * [Aditya Thebe](https://www.adityathebe.com/uses) — 💻 Full Stack Developer with an interest in bitcoins and blockchain.
 * [Travis Luong](https://www.travisluong.com/uses) — Full Stack Developer
+* [Hunter Weitzman](https://hunterweitzman.com/uses) — Builder, founder, writer. Runs HunterMorris. Publishes Almost Something
 * [Andrew Minga](https://andrewminga.com/uses) — IT leader building free browser tools and AI automation for MSP operations
 * [Michal Kolacek](https://michalkolacek.xyz/uses) — Analytics Engineer
 * [Alex Zmn](https://www.monolog.dev/uses/) — Product Owner by day, dabbling in JavaScript, Rust and self-hosting by night.
@@ -972,4 +976,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._

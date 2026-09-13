@@ -1,10 +1,10 @@
 # Awesome → Visit uses.tech for a good time with stars
 
-## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,299 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-11 before submitting a PR.
+## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,299 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-12 before submitting a PR.
 
 A list of `/uses` pages detailing developer setups, gear, software and configs.
 
-Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,299 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-11.
+Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,299 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-12.
 
 This readme is auto-generated from the data.js file, so please don't PR this file.
 
@@ -964,6 +964,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Ryan Daley](https://www.rpdaley.com/uses/) — Software Engineer | ex-Shopify, ex-BellMedia, ex-Apple, ex-Kobo, ex-RIM
 * [Vivian Guillen](https://codequeen.io/uses/) — Full Stack Developer and Writer
 * [Abul Khoyer](https://abulkhoyer.com/uses/) — Writes code, hunts bugs, and breathes perfume.
+* [Evan Travers](https://evantravers.com/uses/) — Writes code, hunts bugs, and breathes perfume.
 * [Alberto Gallego](https://albertogalca.com/uses) — I make software, write, and take photos..
 * [LkSvn](https://lksvn.com.br#uses) — Old days WebMaster, now learning some 🐍 Python and the new FrontEnd Stacks
 * [Manthan Ank](https://manthanank.github.io/uses) — I'm Software Developer, Intermediate Learner, Also as a hobby I write blogs related to Web Development.
@@ -976,4 +977,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._

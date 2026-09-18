@@ -44,7 +44,7 @@
             "id": 182463416,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-09-14T21:03:36Z",
+            "last_commit": "2026-09-18T12:24:31Z",
             "open_issues": 0,
             "owner": "JonasJore",
             "repo": "dotfiles",
@@ -535,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:41:36.880Z",
+    "last_updated": "2026-09-18T15:13:25.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of /uses pages detailing developer setups, gear, software and configs.",

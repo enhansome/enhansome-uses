@@ -1,10 +1,10 @@
 # Awesome → Visit uses.tech for a good time with stars
 
-## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,300 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-16 before submitting a PR.
+## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,301 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-19 before submitting a PR.
 
 A list of `/uses` pages detailing developer setups, gear, software and configs.
 
-Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,300 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-16.
+Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,301 | 🐛 26 | 🌐 JavaScript | 📅 2026-09-19.
 
 This readme is auto-generated from the data.js file, so please don't PR this file.
 
@@ -83,6 +83,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Djamel Bougouffa](https://djamel-bougouffa.com/uses) — Full-Stack Software Engineer specializing in TypeScript, Rust, RAG and agentic AI workflows
 * [Mara Masaeva](https://messier-systems.vercel.app/uses) — AI engineer, electronic music producer & writer. Building production AI systems, MCP servers, and generative sound.
 * [Ethan Plant](https://ethanplant.ca/uses) — Software engineer working on cloud infrastructure. Writing about digital ownership.
+* [Alex Polonsky](https://alexpolonsky.com/uses/) — Builder and product marketer interested in technology and culture.
 * [Thamara Kandabada](https://thamara.co.uk/uses) — Generalist & Tinkerer. Internet person.
 * [Nishil Kapadia](https://www.nish7.io/uses) — Software Engineer -- building compilers and backend tools.
 * [Sahil Kapoor](https://sahilkapoor.com/uses) — Founder & product engineer building AI, gaming, sports tech, and consumer products.
@@ -303,6 +304,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Melanie Kat](https://melkat.blog/p/uses) — Silly front-end engineer (she/her)
 * [Dale Larroder](https://www.dalelarroder.com/uses) — Software Engineer, React, TypeScript and Mechanical Keyboards!
 * [Salma Alam-Naylor](https://whitep4nth3r.com/uses) — I write code for your entertainment.
+* [Jed Arden](https://jedarden.com/uses/) — Bare-metal dev box reached only over Tailscale, agent fleets in tmux, and GitOps on spot-priced Kubernetes.
 * [Luke Oliff](https://lukeocodes.dev/uses) — I am a seasoned Developer Experience Engineer with a rich background in Software Development.
 * [Kevin Lewis](https://lws.io/blog/uses) — I am a developer relations person who loves community and education. Brit in Germany.
 * [Bill Sullivan](https://billsullivan.name/uses/) — Engineering Manager, Senior Engineer, Novice Streamer, and Occasional Entrepreneur
@@ -449,6 +451,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Jakub T. Jankiewicz](https://jakub.jankiewicz.org/uses/) — Front-End Developer, Blogger, Teacher, Mentor, and Open Source programmer
 * [Lucas Schumacher](https://aceto.dev/uses) — Fullstack Developer, IoT & DIY Enthusiast
 * [Christian Lohr](https://blog.bytewerk.io/uses/) — Passionate Software Engineer & Life Long Learner
+* [Hoang Nguyen](https://www.folliehiyuki.com/misc/uses) — YAML Engineer. Functional programming and self-hosting enthusiast.
 * [Kristof Zerbe](https://kiko.io/uses) — Passionate software developer for almost 30 years and currently a tech-savvy IT manager
 * [Marko Haberl](https://marko-haberl.com/uses) — Fullstack Developer
 * [Marcus Virginia](https://marcusv.me/uses) — Software engineer specializing in web tech, amateur designer, & frequent flyer 🛩️.
@@ -539,7 +542,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Johan Hammar](https://www.johanhammar.se/uses) — Software Engineer from Sweden
 * [Leo Ashcraft](https://leoashcraft.com/uses) — Full Stack Software Developer
 * [Mart Traagel](https://mart.traagel.dev/uses/) — Data platform engineer in Estonia. Builds devops tools and writes about infrastructure at mart.traagel.dev.
-* [Kevin Gimbel](https://kevingimbel.de/uses) — DevOps Engineer who loves Rust + web dev
+* [Kevin Gimbel](https://kevingimbel.de/uses) — Platform Engineer who loves Rust + web dev
 * [James Peilow](https://jamespeilow.com/uses) — Front-end Developer, Switch owner, coffee and beer drinker
 * [Bob Orchard](https://boborchard.com/uses) — Semi-stack developer with a design background. Woodworker. Maker.
 * [Tim Eaton](https://www.timeaton.dev/uses/) — Laravel full-stack developer based in Paris
@@ -978,4 +981,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

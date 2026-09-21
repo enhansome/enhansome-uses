@@ -14,8 +14,8 @@
             "id": 94143026,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-19T21:08:01Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-20T16:43:13Z",
+            "open_issues": 25,
             "owner": "wesbos",
             "repo": "awesome-uses",
             "stars": 5301,
@@ -535,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:55:46.832Z",
+    "last_updated": "2026-09-21T17:13:09.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
@@ -543,8 +543,8 @@
       "id": 94143026,
       "language": "JavaScript",
       "license": null,
-      "last_commit": "2026-09-19T21:08:01Z",
-      "open_issues": 26,
+      "last_commit": "2026-09-20T16:43:13Z",
+      "open_issues": 25,
       "owner": "wesbos",
       "repo": "awesome-uses",
       "stars": 5301,
@@ -552,7 +552,7 @@
         "hacktoberfest"
       ]
     },
-    "original_repository_sha": "5d90c4f00657cad5acf8a46f82c474856e00003f",
+    "original_repository_sha": "ff5fafdaeb1ead3827db95bdc3c1b5aac5f3cbf1",
     "enhanced_repository": "enhansome/enhansome-uses",
     "enhanced_repository_description": null,
     "title": "Awesome → Visit uses.tech for a good time with stars"

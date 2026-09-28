@@ -15,7 +15,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-09-20T16:43:13Z",
-            "open_issues": 29,
+            "open_issues": 28,
             "owner": "wesbos",
             "repo": "awesome-uses",
             "stars": 5302,
@@ -44,7 +44,7 @@
             "id": 182463416,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-09-18T12:24:31Z",
+            "last_commit": "2026-09-28T14:49:35Z",
             "open_issues": 0,
             "owner": "JonasJore",
             "repo": "dotfiles",
@@ -535,7 +535,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T15:49:56.648Z",
+    "last_updated": "2026-09-28T18:46:37.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
@@ -544,7 +544,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-09-20T16:43:13Z",
-      "open_issues": 29,
+      "open_issues": 28,
       "owner": "wesbos",
       "repo": "awesome-uses",
       "stars": 5302,

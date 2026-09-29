@@ -1,10 +1,10 @@
 # Awesome → Visit uses.tech for a good time with stars
 
-## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,302 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-20 before submitting a PR.
+## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,305 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-28 before submitting a PR.
 
 A list of `/uses` pages detailing developer setups, gear, software and configs.
 
-Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,302 | 🐛 28 | 🌐 JavaScript | 📅 2026-09-20.
+Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,305 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-28.
 
 This readme is auto-generated from the data.js file, so please don't PR this file.
 
@@ -812,7 +812,6 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Quentin Laffont](https://uses.qlaffont.com) — Full Stack JS Developer, Tournament Organiser, Video-Game lover
 * [Quan Tong](https://quantonganh.com/uses) — Software Engineer, DevOps Engineer, Traveller, Street photography lover
 * [Erv Walter](https://ewal.dev/uses) — Father, Husband, Web Developer, Board Game Addict
-* [Juanito Fatas](https://juanitofatas.com/uses) — Program Tinker 🧙🏼‍♂️
 * [Krzysztof Żuraw](https://krzysztofzuraw.com/uses) — Developer, nerd, co-organizer, chemex lover
 * [Julio Lozovei](https://jlozovei.dev/uses) — Front-end bugs developer, writer/speaker and amateur musician from Brazil 🤘
 * [David Leuliette](https://davidl.fr/uses) — Freelance React Native developer and bootcamp instructor specializing in cross-platform application.
@@ -980,4 +979,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

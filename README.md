@@ -1,10 +1,10 @@
 # Awesome → Visit uses.tech for a good time with stars
 
-## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,305 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-28 before submitting a PR.
+## Please read [Contribution Guide](https://github.com/wesbos/awesome-uses/blob/master/contribution-guide.md) ⭐ 5,304 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-01 before submitting a PR.
 
 A list of `/uses` pages detailing developer setups, gear, software and configs.
 
-Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,305 | 🐛 27 | 🌐 JavaScript | 📅 2026-09-28.
+Add your own `/uses` page in [data.js](https://github.com/wesbos/awesome-uses/blob/master/src/data.js) ⭐ 5,304 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-01.
 
 This readme is auto-generated from the data.js file, so please don't PR this file.
 
@@ -68,6 +68,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Thxie](https://thxie.com/about#uses) — AI Enthusiast | Minimalist | Post-Language Programmer, 🤩 Just for fun!
 * [Hussain Abbas](https://hussainweb.me/uses) — Director of Engineering and Solutions Architect. Enthusiastic about Platform Engineering, Developer Tooling, System Design, and User Centricity.
 * [J Lopes](https://jlopes.eu/uses/) — Web Developer & Designer, creative problem-solver.
+* [sundei](https://sundei.ee/uses) — clicking circles, running osu! tournaments, and breaking my own website.
 * [Adis Klobodanovic](https://adiss.dev/uses) — Full-stack developer fokusiran na Next.js, React i SaaS proizvode
 * [Vlad Savruk](https://vladsavruk.com/writing/uses) — Product and Graphic Designer
 * [Phuc Bui](https://phucbm.com/uses) — Creative Frontend Engineer. I create things for designers and developers, usually open source.
@@ -312,6 +313,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Dominik Gallitzendörfer](https://nharox.com/uses) — Front‑end developer with a focus on UI/UX. Loves CSS and is addicted to Tetris.
 * [Andrej Gajdos](https://andrejgajdos.com/uses/) — Startup CTO | Tech Lead | Software Architect | Dev
 * [Emmanuel Gautier](https://www.emmanuelgautier.com/uses) — Solution Architect & Fullstack Developer living in France. Tech enthusiast and Data Lover.
+* [Emma Goto](https://www.emgoto.com/uses/) — Australian-Japanese software engineer and blogger
 * [Joseph Jude](https://jjude.com/uses/) — CTO | Podcast Host | Indie Developer | Homeschooling Dad
 * [Mahesh Rijal](https://maheshrijal.com/uses) — Human, Troubleshooter, Amateur Swimmer, Reader
 * [Alan Redzepagic](https://alanred.me/uses) — Front-end development, web native, tech enthusiast
@@ -979,4 +981,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

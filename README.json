@@ -4,35 +4,6 @@
       "description": null,
       "items": [
         {
-          "children": [],
-          "description": "A list of pages detailing developer setups, gear, software and configs.\nAdd your own page in data.js.\nThis readme is auto-generated from the data.js file, so please don't PR this file.",
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
-            "homepage": "https://uses.tech",
-            "id": 94143026,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2026-10-01T16:49:28Z",
-            "open_issues": 29,
-            "owner": "wesbos",
-            "repo": "awesome-uses",
-            "stars": 5302,
-            "topics": [
-              "hacktoberfest"
-            ]
-          },
-          "title": "Please read Contribution Guide before submitting a PR.",
-          "first_seen": "2026-08-28T21:32:28.347Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
-      "description": null,
-      "items": [
-        {
           "node_type": "item",
           "title": "Jonas Jore",
           "description": "Fullstack Developer, Problemsolving, coffee and fancy terminaltricks!",
@@ -535,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:50:51.222Z",
+    "last_updated": "2026-10-03T05:10:57.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
@@ -547,7 +518,7 @@
       "open_issues": 29,
       "owner": "wesbos",
       "repo": "awesome-uses",
-      "stars": 5302,
+      "stars": 5301,
       "topics": [
         "hacktoberfest"
       ]

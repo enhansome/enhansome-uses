@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:53:35.787Z",
+    "last_updated": "2026-10-06T17:26:19.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
@@ -518,7 +518,7 @@
       "open_issues": 31,
       "owner": "wesbos",
       "repo": "awesome-uses",
-      "stars": 5301,
+      "stars": 5302,
       "topics": [
         "hacktoberfest"
       ]

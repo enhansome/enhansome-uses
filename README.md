@@ -63,6 +63,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [David M. Coleman](https://www.nookwerks.com/uses) — Writer & blogger based outside Austin, TX.
 * [Adam Greenough](http://adamgreenough.net/uses/) — Freelance web designer, developer & WordPress expert from the UK
 * [Berat Bozkurt ](https://beratbozkurt.net/en/uses) — Frontend developer living in Turkey. Currently building mobile apps, indie hacker
+* [Manish Gole Tamang](https://manishtamang.com/uses) — Full Stack Web Developer from Nepal
 * [Maxime Blaise](https://maximeblaise.fr/uses) — AI Native Product Designer
 * [Raúl Jiménez Ortega](https://www.rauljimenez.info/uses) — Helping developers and communities share geospatial technology, open knowledge, and useful tools in public.
 * [Thxie](https://thxie.com/about#uses) — AI Enthusiast | Minimalist | Post-Language Programmer, 🤩 Just for fun!
@@ -247,6 +248,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Paweł Cisło](https://pawelcislo.com/uses/) — MLOps Engineer & PKM freak
 * [Robb Knight](https://rknight.me/uses) — Developer, Podcaster, Lego Builder, Cat Owner
 * [Riley](https://riley-uses.netlify.app/) — Software Developer
+* [Phillip Lovelace](https://pixelflips.com/uses) — Senior UX Developer focused on design systems, UX engineering, and UI design.
 * [Ryan Freeman](https://ryanfreeman.dev/uses) — Full-stack software engineer from Dublin, Ireland
 * [Ivan Malopinsky](https://imsky.co/uses) — Entrepreneur, engineer
 * [Murendeni Mukwevho](https://mukwevhom.xyz/uses) — Software Developer breaking the bias in South Africa
@@ -485,7 +487,6 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Dhanish Gajjar](https://dhanishgajjar.com/uses) — Developer
 * [Ricardo Morais](https://ricardomorais.dev/uses) — Senior Front-end Developer, Software Engineer @ Nextbitt
 * [Aditya Thebe](https://www.adityathebe.com/uses) — 💻 Full Stack Developer with an interest in bitcoins and blockchain.
-* [Travis Luong](https://www.travisluong.com/uses) — Full Stack Developer
 * [Hunter Weitzman](https://hunterweitzman.com/uses) — Builder, founder, writer. Runs HunterMorris. Publishes Almost Something
 * [Andrew Minga](https://andrewminga.com/uses) — IT leader building free browser tools and AI automation for MSP operations
 * [Michal Kolacek](https://michalkolacek.xyz/uses) — Analytics Engineer
@@ -495,6 +496,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Jibin Thomas](https://jibin.tech/uses) — Front-End Developer & Casual Blogger. CSS, Javascript & React
 * [Michael Rolfsen](https://boldandfriendly.de/uses) — Designer and Front-of-the-Front-End Dev. I suck at guitar.
 * [Michael Read](https://www.michaelcread.com/uses) — Full Stack Web Developer.
+* [Max Bonnefin](https://bonnef.in/uses) — Senior back-end software engineer in Chesterfield, England.
 * [João Pescada](https://joaopescada.com/uses) — Technologist and Consultant for web apps
 * [Tetri Mesquita](https://tetri.net/uses) — Software Architect, specialist in Full Stack C#, innovator in Technology for Agribusiness
 * [Pedro Filho](https://pedroapfilho.com/uses) — Product engineer. Usually working in crypto, but always learning something new.
@@ -598,6 +600,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Alexis Janvier](https://alexisjanvier.net/uses/) — Web Developer, Open Source Contributor, Community Organizer, Proud Dad, Grateful Lover.
 * [Sumanth](https://mynameissumanth.netlify.app/uses.html) — Student. Learning web development
 * [Christian Leo-Pernold](https://mazedlx.net/uses) — Dad. Husband. BBQ Enthusiast. Full-Stack-Developer.
+* [Marco Casini](https://www.casinesque.me/uses) — DevOps|Cloud|SRE engineer with a strong passion for opensource, digital rights, cinema, reading and adventures
 * [Danilo Barion Nogueira](https://danilobarion1986.github.io/uses) — Father, developer, blog writer, classical guitar player and searching for the meaning of life!
 * [Chris Otto](https://chrisotto.dev/uses/) — Software engineer. I enjoy JavaScript, DevOps and Testing.
 * [James Quick](https://jamesqquick.com/uses) — Developer Advocate Engineer at @auth0 and content creator
@@ -981,4 +984,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

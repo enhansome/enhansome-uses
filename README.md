@@ -86,6 +86,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Djamel Bougouffa](https://djamel-bougouffa.com/uses) — Full-Stack Software Engineer specializing in TypeScript, Rust, RAG and agentic AI workflows
 * [Mara Masaeva](https://messier-systems.vercel.app/uses) — AI engineer, electronic music producer & writer. Building production AI systems, MCP servers, and generative sound.
 * [Ethan Plant](https://ethanplant.ca/uses) — Software engineer working on cloud infrastructure. Writing about digital ownership.
+* [Benbxyz](https://benbxyz.com/uses) — Software engineer for 20+ years, now mostly managing a team of AI agents. Outdoors and 80s synth enthusiast.
 * [Alex Polonsky](https://alexpolonsky.com/uses/) — Builder and product marketer interested in technology and culture.
 * [Thamara Kandabada](https://thamara.co.uk/uses) — Generalist & Tinkerer. Internet person.
 * [Nishil Kapadia](https://www.nish7.io/uses) — Software Engineer -- building compilers and backend tools.
@@ -579,6 +580,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Kenny Robinson](https://thealmostengineer.com/uses) — Web developer that builds software to improve business processes
 * [Bojan Bedrač](https://www.improvebadcode.com/uses) — Coding the future, one line of code at a time.
 * [Yannick Le Roux](https://yannickleroux.com/uses) — Second career web dev, French living in San Diego, retired DJ.
+* [Zubin Khavarian](https://zubin.dev/uses/) — Software engineer building learning apps and 3D games for the web and iOS.
 * [Eric Raslich](https://ericraslich.com/uses) — Boat captain, web developer, marine biologist, solving science and communication problems with web technologies.
 * [Sagar Soni](https://sagarsoni.dev/uses/) — Full Stack JS, PHP and WordPress Developer in day. Android & Linux enthusiast by night
 * [Paulo Regina](https://pauloregina.com/uses.html) — Full Stack Web Developer
@@ -970,6 +972,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Ferdinand Linnenberg](https://linnenberg.dev/uses) — Backend Developer and Open Source Enthusiast
 * [orangc](https://orangc.net/uses) — A student, developer, weeb, and bookworm.
 * [lohtei](https://lohtei.nekoweb.org/uses) — Actually your cat
+* [Simon Erkelens](https://firesphere.dev/uses) — Software Engineer, Autist, Tinkerer. All kinds of things.
 * [Will Adams](https://willadams.dev/uses) — UK developer and knife maker
 * [That MLOps Guy](https://thatmlopsguy.github.io/uses/) — Portuguese machine learning engineer
 * [Hiran Venugopalan](https://hiran.in/uses) — A tinkerer who loves building things. Product Designer. Into PKM and Digital Garden.
@@ -989,4 +992,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

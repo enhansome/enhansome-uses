@@ -54,6 +54,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Kevin Simkanič](https://github.com/kevinko12323/uses) ⭐ 0 | 🐛 0 | 📅 2020-01-15 — Wordpress ninja 😎 React lover ❤️ CSS master 🧐
 * [Jerry Shi](https://github.com/szy0syz/uses) ⭐ 0 | 🐛 0 | 📅 2020-01-15 — Full Stack, Motivated full-stack developer not afraid to use any technology.
 * [Wuttinan Sukpoon](https://github.com/mewxz029/uses) ⭐ 0 | 🐛 0 | 📅 2022-09-30 — FullStack Developer
+* [Yorben Vander Sleyen](https://yorben.me/uses.html) — Native macOS and Swift engineer building minimalist HUD systems, productivity tools, and typographic UI.
 * [Dzubayyan Ahmad](https://masdzub.com/uses) — Building reliable, scalable infrastructure and solving complex technical challenges with automation and monitoring.
 * [Built By Pete](https://builtbypete.net/uses) — Tech, Networking, Smart Home, DIY & Maker project enthusiast
 * [Steven W. Buehler](https://swb72.us/uses) — Gloriously awkward 50-something. Reporting Administrator/Developer. Musician. Disney World Junkie.
@@ -995,4 +996,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

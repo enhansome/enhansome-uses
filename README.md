@@ -54,6 +54,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Kevin Simkanič](https://github.com/kevinko12323/uses) ⭐ 0 | 🐛 0 | 📅 2020-01-15 — Wordpress ninja 😎 React lover ❤️ CSS master 🧐
 * [Jerry Shi](https://github.com/szy0syz/uses) ⭐ 0 | 🐛 0 | 📅 2020-01-15 — Full Stack, Motivated full-stack developer not afraid to use any technology.
 * [Wuttinan Sukpoon](https://github.com/mewxz029/uses) ⭐ 0 | 🐛 0 | 📅 2022-09-30 — FullStack Developer
+* [Emiliano White](https://thebestinslot.com/setup) — Builder of small web products. My setup, one pick per slot, each rated 1–3.
 * [Yorben Vander Sleyen](https://yorben.me/uses.html) — Native macOS and Swift engineer building minimalist HUD systems, productivity tools, and typographic UI.
 * [Dzubayyan Ahmad](https://masdzub.com/uses) — Building reliable, scalable infrastructure and solving complex technical challenges with automation and monitoring.
 * [Built By Pete](https://builtbypete.net/uses) — Tech, Networking, Smart Home, DIY & Maker project enthusiast
@@ -64,6 +65,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Hasse Ramlev Wilson](https://notes.ramlev.com/uses/) — Code - run - sleep ... Coffee
 * [David M. Coleman](https://www.nookwerks.com/uses) — Writer & blogger based outside Austin, TX.
 * [Adam Greenough](http://adamgreenough.net/uses/) — Freelance web designer, developer & WordPress expert from the UK
+* [Kamal Hosen](https://kamalhosen.com/uses/) — Full-stack developer and product builder working across SaaS, web applications, WordPress, and developer tools.
 * [Berat Bozkurt ](https://beratbozkurt.net/en/uses) — Frontend developer living in Turkey. Currently building mobile apps, indie hacker
 * [Manish Gole Tamang](https://manishtamang.com/uses) — Full Stack Web Developer from Nepal
 * [Maxime Blaise](https://maximeblaise.fr/uses) — AI Native Product Designer
@@ -996,4 +998,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

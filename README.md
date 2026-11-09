@@ -99,6 +99,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Tony Dehnke 🇨🇦](https://tonydehnke.com/uses/) — Digital nomad & non-technical founder running a business from a backpack with Apple Vision Pro as a virtual display
 * [Shreya Sawardekar](https://shreya-sawardekar.github.io/uses/) — Technical Lead, Front-End Developer from Goa.
 * [Luca Lischetti](https://sirlisko.com/uses) — Ciao! I'm another fellow developer, cook, hiker, dungeon crawler, and maker of things.
+* [Joshua Morris](https://joshuamorris.info/uses/) — Software engineer, writer, and open-web enthusiast.
 * [Jared Rigby](https://jaredrigby.co.uk/uses/) — Creative technologist and indie game developer.
 * [Daniel Marcinkowski](https://meetdaniel.me/uses/) — A multi-disciplinary tech professional.
 * [Piers Olenski](https://www.piersolenski.com/uses) — Technical Lead, Front-End Developer and Vim Enthusiast from London.
@@ -157,6 +158,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Carlos D. Álvaro](https://cdalvaro.io/uses) — Senior Software Engineer, Apple fan and sports lover
 * [Abdul-Jabbar Bozdar](https://ajbozdar.github.io/uses/) — Computer Programmer
 * [Genís Matutes](https://eclecticprogrammer.dev/uses/) — Father. Product before code. Remote hooligan. No booze. No coffee.
+* [Ed Stuurman](https://www.home-lab.net/uses) — Infrastructure & Reliability Engineer in Tokyo, Japan. Single-box Proxmox VE homelab with native ZFS, split-horizon DNS, WireGuard cloud bridge, and self-hosted stack.
 * [Jakob Greenfeld](https://jakobgreenfeld.com/uses) — Founder
 * [Bino Kochumol Varghese](https://binovarghese.com/uses/) — Developer and Writer
 * [John Hammond](https://mathsquirrel.com/posts/2024/01/uses/) — Teaching Professor and Nerd
@@ -998,4 +1000,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._

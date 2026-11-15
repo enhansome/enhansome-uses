@@ -56,6 +56,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Wuttinan Sukpoon](https://github.com/mewxz029/uses) ⭐ 0 | 🐛 0 | 📅 2022-09-30 — FullStack Developer
 * [Emiliano White](https://thebestinslot.com/setup) — Builder of small web products. My setup, one pick per slot, each rated 1–3.
 * [Yorben Vander Sleyen](https://yorben.me/uses.html) — Native macOS and Swift engineer building minimalist HUD systems, productivity tools, and typographic UI.
+* [Dou](https://educatedkanak.de/uses/) — Writing about migration and discrimination in Germany. Free, open-source and self-hostable tools behind the blog.
 * [Dzubayyan Ahmad](https://masdzub.com/uses) — Building reliable, scalable infrastructure and solving complex technical challenges with automation and monitoring.
 * [Built By Pete](https://builtbypete.net/uses) — Tech, Networking, Smart Home, DIY & Maker project enthusiast
 * [Steven W. Buehler](https://swb72.us/uses) — Gloriously awkward 50-something. Reporting Administrator/Developer. Musician. Disney World Junkie.
@@ -337,6 +338,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Himank Barve](https://hbarve1.com/uses) — Full Stack JavaScript Developer, Open Source Enthusiast
 * [Matthew Tao](https://www.matthewtao.com/uses) — Computer Science student who loves CSS. Focuses on the little things that make a website delightful.
 * [William Chin](https://yourdigitalaid.com/uses/) — Web Developer, Product Manager, Digital Marketer, always trying to learn more.
+* [Arif Islam](https://arifislam.me/uses) — Backend-focused software engineer with 3+ years of experience building web applications, APIs, and automation systems.
 * [Marcin Dyguda](https://www.dyguda.com/uses/) — Head of Engineering, Entrepreneur-wannabe, product leader and team builder at heart
 * [Angélique Weger](https://angeliqueweger.com/uses) — engineering manager :: adjunct prof :: always learning
 * [Seagyn Davis](https://www.seagyndavis.com/uses) — Full stack human. Hobby runner. Mainly a husband and dad.
@@ -403,6 +405,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [François Vantomme](https://code.strigo.cc/uses/) — Software craftsman
 * [Gabriele Girelli](https://ggirelli.info/uses) — Sr. Bioinformagician
 * [Mads Hartmann](https://www.mads-hartmann.com/uses) — Product Engineer located in Denmark currently working at Ona
+* [Axel Martínez](https://ackzell.dev/uses) — Mexican software engineer focused on the frontend and JS/TS (Vue, if you give me a choice). Eternal apprentice of web technologies.
 * [Camille Hodoul](https://camillehdl.dev/uses/) — Remote fullstack developer, mostly Javascript & PHP
 * [Diogo Ferreira](https://diogoferreira.pt/uses) — Linux System Administrator and DevOps aficionado. Sometimes I write on the internet.
 * [Afaq Rashid](https://www.afaqrashid.com/uses) — Full-stack developer building for the web with Next.js, React and TypeScript.
@@ -1002,4 +1005,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

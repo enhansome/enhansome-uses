@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T19:38:18.363Z",
+    "last_updated": "2026-11-19T19:38:37.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
@@ -515,7 +515,7 @@
       "language": "JavaScript",
       "license": null,
       "last_commit": "2026-11-15T17:06:40Z",
-      "open_issues": 26,
+      "open_issues": 27,
       "owner": "wesbos",
       "repo": "awesome-uses",
       "stars": 5308,

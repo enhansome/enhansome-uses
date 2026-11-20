@@ -39,7 +39,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Norbert Chmiel](https://github.com/Norbiox/uses) ⭐ 1 | 🐛 0 | 📅 2023-07-12 — Software Craftsman, Pythonista, Linux enthusiast.
 * [Kristina Groeger](https://github.com/kr1st1nagr03g3r/uses) ⭐ 1 | 🐛 0 | 📅 2022-03-16 — 💻 👻 Over ten years of front-end development and UI / UX development and design.
 * [Devika Bhapkar](https://github.com/devikabhapkar/uses) ⭐ 0 | 🐛 0 | 📅 2022-10-13 — Student,Content creator
-* [Manuel Coiai](https://github.com/viralk/uses) ⭐ 0 | 🐛 0 | 📅 2024-10-22 — Creative front-end developer living in Pisa, Italy
+* [Manuel Coiai](https://github.com/viralk/uses) ⭐ 0 | 🐛 0 | 📅 2026-11-19 — Creative front-end developer living in Pisa, Italy
 * [MITSUBOSHI Yuya](https://github.com/MITSUBOSHI/uses) ⭐ 0 | 🐛 0 | 📅 2024-02-22 — Software Engineer
 * [Simon Smale](https://github.com/SSmale/uses) ⭐ 0 | 🐛 0 | 📅 2020-12-18 — Full Stack Developer and beginner digital gardener
 * [Adi Purnomo](https://github.com/medival/uses/) ⭐ 0 | 🐛 0 | 📅 2020-10-05 — Front End Developer x Network Engineer
@@ -1005,4 +1005,4 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
